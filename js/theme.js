@@ -323,3 +323,4 @@ function pp_center() {
     pp_block.css('top', setTop + 'px');
     pp_block.removeClass('fixed');
 }
+
